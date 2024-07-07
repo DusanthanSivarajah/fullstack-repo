@@ -37,3 +37,12 @@ git push
 
 
 
+
+
+
+resources that helped me with this assignment: 
+
+Youtuber:Cameron McKenzie
+Link:https://www.youtube.com/watch?v=eJrh5IjWSGM&ab_channel=CameronMcKenzie
+
+openAI chatGPT for assistance   
